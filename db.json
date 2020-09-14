@@ -1,0 +1,82 @@
+{
+  "tasks": [
+    {
+      "title": "Building a React-Redux App",
+      "description": "getting it done",
+      "status": "Completed",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Peace on Earth",
+      "description": "No big deal.",
+      "status": "Completed"
+    },
+    {
+      "id": 3,
+      "title": "Create Facebook for dogs",
+      "description": "The hottest new social network",
+      "status": "Completed"
+    },
+    {
+      "title": "Cook Dinner",
+      "description": "It's your turn",
+      "status": "Completed",
+      "id": 4
+    },
+    {
+      "title": "Make More Soup",
+      "description": "it's all about soup",
+      "status": "Completed",
+      "id": 5
+    },
+    {
+      "title": "Try Donuts",
+      "description": "they're good",
+      "status": "Completed",
+      "id": 6
+    },
+    {
+      "title": "Watch TV",
+      "description": "any comedy will do",
+      "status": "In Progress",
+      "id": 7
+    },
+    {
+      "title": "Doing That Thing You Do",
+      "description": "It's a movie!",
+      "status": "In Progress",
+      "id": 8
+    },
+    {
+      "title": "Eat a Bowl of Prunes",
+      "description": "Help to move stuff around",
+      "status": "In Progress",
+      "id": 9
+    },
+    {
+      "title": "Walk the Dogs",
+      "description": "Get them boys some exercise",
+      "status": "Unstarted",
+      "id": 10
+    },
+    {
+      "title": "Play Simple Simon",
+      "description": "Do as he says",
+      "status": "In Progress",
+      "id": 11
+    },
+    {
+      "title": "Pet Hobbes",
+      "description": "He's the Handsomemest",
+      "status": "Unstarted",
+      "id": 12
+    },
+    {
+      "title": "Swindle Folks",
+      "description": "Become a Republican",
+      "status": "Unstarted",
+      "id": 13
+    }
+  ]
+}
