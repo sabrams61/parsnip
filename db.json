@@ -57,7 +57,7 @@
     {
       "title": "Walk the Dogs",
       "description": "Get them boys some exercise",
-      "status": "Unstarted",
+      "status": "Completed",
       "id": 10
     },
     {
@@ -77,6 +77,12 @@
       "description": "Become a Republican",
       "status": "Unstarted",
       "id": 13
+    },
+    {
+      "title": "Smile",
+      "description": "more often",
+      "status": "Unstarted",
+      "id": 14
     }
   ]
 }
